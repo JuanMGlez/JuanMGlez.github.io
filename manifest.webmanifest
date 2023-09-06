@@ -1,7 +1,7 @@
 {
-  "name": "tecwave",
-  "short_name": "tecwave",
-  "theme_color": "#1976d2",
+  "name": "Tecwave",
+  "short_name": "Tecwave",
+  "theme_color": "#000000",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
