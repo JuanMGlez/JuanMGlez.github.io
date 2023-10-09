@@ -395,6 +395,9 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ng-apexcharts
 MIT
 
+ngx-cookie-service
+MIT
+
 rxfire/auth
 
 rxjs
