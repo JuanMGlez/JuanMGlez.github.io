@@ -87,6 +87,9 @@ Apache-2.0
 @firebase/component
 Apache-2.0
 
+@firebase/database
+Apache-2.0
+
 @firebase/firestore
 Apache-2.0
 
@@ -373,6 +376,8 @@ firebase/app-check
 
 firebase/auth
 
+firebase/database
+
 firebase/firestore
 
 firebase/messaging
@@ -607,6 +612,9 @@ Apache-2.0
 
 
 snapsvg-cjs
+MIT
+
+weather-icons
 MIT
 
 zone.js
