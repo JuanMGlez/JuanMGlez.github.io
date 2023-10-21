@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697853126254,
+  "timestamp": 1697853346958,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/polyfills.4d6b3360930c8885.js",
         "/runtime.618f6cf44e653483.js",
         "/scripts.2a2c2f1e4dcdb6c6.js",
-        "/styles.deb4e05b208af0fd.css"
+        "/styles.673f19abeebea87c.css"
       ],
       "patterns": []
     },
@@ -65,13 +65,13 @@
     "/assets/img/bg.jpg": "5072ffdd2d7cb86f9aa11bbe65c18d4b4a60879f",
     "/assets/img/logo.jpg": "6bd42fc09f29fa4ca4bd80c42de08a6fd52c76d2",
     "/favicon.ico": "2152d16924cc7dd89b77263b863571848238375b",
-    "/index.html": "827e7822f522cacc97e9988a8b3681db94dc4cd8",
+    "/index.html": "923b389c9ad2fdf8eaed5faf29e39396630969b9",
     "/main.49f2baf0dc44e818.js": "7abe1224d2d96ff465cf158bd3a7f22aa02c131a",
     "/manifest.webmanifest": "e85255c973bc7c7aceec949ef12cad065b4b2657",
     "/polyfills.4d6b3360930c8885.js": "12bdb32c471ac19e96f9403bf81032af93b37307",
     "/runtime.618f6cf44e653483.js": "06cd3071fd6614b61170f4f101ecf6b8bf8308ce",
     "/scripts.2a2c2f1e4dcdb6c6.js": "a7c28b2e46cfed5992c345b6c6aafbbcf0d2c85e",
-    "/styles.deb4e05b208af0fd.css": "441baae6266213bf3f45ad456817dd6a75a815f7",
+    "/styles.673f19abeebea87c.css": "5f0d0846ad432cc535293a47486f176deb55991a",
     "/weathericons-regular-webfont.2bc5e74dc4ed70db.woff": "5b909f99b700b5289e9af6f750405152b06e32f2",
     "/weathericons-regular-webfont.381fc38e2494aef1.woff2": "718dd740e8340888352129e592fed085409e891e",
     "/weathericons-regular-webfont.59bce0f99cda93d8.ttf": "9916e3dbc3990e3073cf5a2cb4c2e958273b7532",
