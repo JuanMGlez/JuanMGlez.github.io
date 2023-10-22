@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697859560488,
+  "timestamp": 1697961697710,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,12 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
+        "/904.5a92e72c3083fcc1.js",
         "/favicon.ico",
         "/index.html",
-        "/main.040647b6bf84fc2d.js",
+        "/main.a1112c8e244f5f1f.js",
         "/manifest.webmanifest",
         "/polyfills.4d6b3360930c8885.js",
-        "/runtime.618f6cf44e653483.js",
+        "/runtime.25cfc24372d5eff2.js",
         "/scripts.2a2c2f1e4dcdb6c6.js",
         "/styles.a7f97050cabdfe47.css"
       ],
@@ -30,6 +31,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/anim/trigo.json",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -52,6 +54,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/904.5a92e72c3083fcc1.js": "3ea32a0b97bb61200e2871cd19a32b2469ad44be",
+    "/assets/anim/trigo.json": "124c0c22ea75ab141ab50e3f483d7c7a1f78d60e",
     "/assets/icons/icon-128x128.png": "8478b6c1b1d080526e9a3b10cf6150ccc9f5f431",
     "/assets/icons/icon-144x144.png": "2979953d7dca15a0892f62ada6d85c2095e7d5bc",
     "/assets/icons/icon-152x152.png": "2ed4cfe9451374653d774b79edd953c6f489bdfa",
@@ -65,11 +69,11 @@
     "/assets/img/bg.jpg": "5072ffdd2d7cb86f9aa11bbe65c18d4b4a60879f",
     "/assets/img/logo.jpg": "6bd42fc09f29fa4ca4bd80c42de08a6fd52c76d2",
     "/favicon.ico": "2152d16924cc7dd89b77263b863571848238375b",
-    "/index.html": "fa539a42d2bcd18b64281c82b203ccf4ed5118eb",
-    "/main.040647b6bf84fc2d.js": "354cebab02dddd204e845d1c2f5d8c5b4aae028b",
+    "/index.html": "c73f733ec2d288285572022900d58c55214867a9",
+    "/main.a1112c8e244f5f1f.js": "bd7a8a2b92319b44befd93b147157887035490f5",
     "/manifest.webmanifest": "e85255c973bc7c7aceec949ef12cad065b4b2657",
     "/polyfills.4d6b3360930c8885.js": "12bdb32c471ac19e96f9403bf81032af93b37307",
-    "/runtime.618f6cf44e653483.js": "06cd3071fd6614b61170f4f101ecf6b8bf8308ce",
+    "/runtime.25cfc24372d5eff2.js": "1b7011a3868aeb032d4d96063b124e925184b02a",
     "/scripts.2a2c2f1e4dcdb6c6.js": "a7c28b2e46cfed5992c345b6c6aafbbcf0d2c85e",
     "/styles.a7f97050cabdfe47.css": "796a5a18bfdb373ed197693b8ac16d4e87c67332",
     "/weathericons-regular-webfont.2bc5e74dc4ed70db.woff": "5b909f99b700b5289e9af6f750405152b06e32f2",
