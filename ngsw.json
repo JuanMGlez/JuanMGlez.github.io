@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698029568739,
+  "timestamp": 1698217065133,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,9 @@
       "urls": [
         "/904.5a92e72c3083fcc1.js",
         "/favicon.ico",
+        "/firebase-messaging-sw.js",
         "/index.html",
-        "/main.5025e68913b35f83.js",
+        "/main.9f0071e0501952a5.js",
         "/manifest.webmanifest",
         "/polyfills.4d6b3360930c8885.js",
         "/runtime.25cfc24372d5eff2.js",
@@ -44,6 +45,7 @@
         "/assets/img/LogoElegido.png",
         "/assets/img/bg.jpg",
         "/assets/img/logo.jpg",
+        "/assets/notifications/warning.png",
         "/weathericons-regular-webfont.2bc5e74dc4ed70db.woff",
         "/weathericons-regular-webfont.381fc38e2494aef1.woff2",
         "/weathericons-regular-webfont.59bce0f99cda93d8.ttf",
@@ -68,9 +70,11 @@
     "/assets/img/LogoElegido.png": "3aae32434653588fd504617804ed041686c66fbe",
     "/assets/img/bg.jpg": "5072ffdd2d7cb86f9aa11bbe65c18d4b4a60879f",
     "/assets/img/logo.jpg": "6bd42fc09f29fa4ca4bd80c42de08a6fd52c76d2",
+    "/assets/notifications/warning.png": "141a06cf8bad17ba6e304426b09892e28b648f28",
     "/favicon.ico": "2152d16924cc7dd89b77263b863571848238375b",
-    "/index.html": "366c5dd3d49cd7fe440b0f15e72031a0856809b1",
-    "/main.5025e68913b35f83.js": "0694816cfdcd4140fe82bbd552fc509702f403e8",
+    "/firebase-messaging-sw.js": "e04286430a55f0031c60b74afa2cb9a5db89e4a4",
+    "/index.html": "22a74bab8f5eeda2625bba6d8b32bb50a7205539",
+    "/main.9f0071e0501952a5.js": "0e72678590c99d0dc1f9d6c682d1a2561e4cf610",
     "/manifest.webmanifest": "e85255c973bc7c7aceec949ef12cad065b4b2657",
     "/polyfills.4d6b3360930c8885.js": "12bdb32c471ac19e96f9403bf81032af93b37307",
     "/runtime.25cfc24372d5eff2.js": "1b7011a3868aeb032d4d96063b124e925184b02a",

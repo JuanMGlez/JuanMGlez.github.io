@@ -424,9 +424,6 @@ SOFTWARE.
 ng-apexcharts
 MIT
 
-ngx-cookie-service
-MIT
-
 ngx-lottie
 MIT
 
